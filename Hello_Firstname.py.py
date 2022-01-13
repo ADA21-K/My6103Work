@@ -37,6 +37,7 @@ cnt += 1
 # for info on f-string, r-string, b-string, etc.
 
 # Changed!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# Changed !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 2
 # %%[markdown]
 #
 # # Python Class 01
